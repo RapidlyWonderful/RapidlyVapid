@@ -1,7 +1,7 @@
 ### Hi there :D 👋
 
 
-- 🔭 I’m currently working on a "smart fan"
+- 🔭 I’m currently working on a Storytelling program.
 - 🌱 I’m currently learning: Basic ml, Basic linux things, and CS principles!
 - 📫 How to reach me: Github (:
 - 😄 Pronouns: He/Him
