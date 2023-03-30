@@ -6,4 +6,4 @@
 - 📫 How to reach me: Github (:
 - 😄 Pronouns: He/Him
 
-![RapidlyVapid's GitHub stats](https://github-readme-stats.vercel.app/api?username=RapidlyVapid&show_icons=true&theme=dracula)
+![RapidlyVapid's GitHub stats](https://github-readme-stats.vercel.app/api?username=RapidlyWonderful&show_icons=true&theme=dracula)
